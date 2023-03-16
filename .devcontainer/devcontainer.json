@@ -13,7 +13,8 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ms-python.python",
-		"ms-azuretools.vscode-azurefunctions"
+		"ms-azuretools.vscode-azurefunctions",
+		"GitHub.copilot"
 	],
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
